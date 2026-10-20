@@ -1,0 +1,4 @@
+# continutul fisierului .gitignore:
+.venv/
+__pycache__/
+git status --short 
